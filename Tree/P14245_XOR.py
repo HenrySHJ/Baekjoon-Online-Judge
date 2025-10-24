@@ -1,3 +1,5 @@
+import sys
+input = sys.stdin.readline
 N = int(input())
 
 A = list(map(int,input().split()))
@@ -90,4 +92,5 @@ for _ in range(M):
 
     elif t == 2:
         a = temp[1]
+
         print(query(1,0,N-1,a))
