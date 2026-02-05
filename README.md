@@ -17,6 +17,7 @@
 | `Greedy` | 그리디 알고리즘 문제 |
 | `Implementation` | 기본 구현 문제 (조건을 코드로 그대로 구현) |
 | `Math` | 수학/계산 문제 |
+| `Search` | 탐색 문제 |
 | `Sorting` | 정렬 문제 |
 | `Tree` | 트리 구조 활용 문제 |
 | `Unclassified` | 아직 분류하지 않은 문제 |
