@@ -19,5 +19,6 @@
 | `Math` | 수학/계산 문제 |
 | `Search` | 탐색 문제 |
 | `Sorting` | 정렬 문제 |
+| `String` | 문자열 문제 |
 | `Tree` | 트리 구조 활용 문제 |
 | `Unclassified` | 아직 분류하지 않은 문제 |
